@@ -6,10 +6,12 @@ const MainConts = () => {
   const [videos, setvideos] = useState([]);
 
   useEffect(() => {
-    fetch('./utils/test.json')
+    fetch(
+      `https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=48&q=webstoryboy&type=video&key=${process.env.REACT_APP_YOUTUBE_API_KEY}`
+    )
       .then((response) => response.json())
       .then((result) => {
-        console.log(result.items);
+        // console.log(result.items);
         setvideos(result.items);
       })
       .catch((error) => console.log(error));

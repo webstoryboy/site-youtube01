@@ -1,0 +1,61 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "pncoUCjOqmlcTqdop4nnnKGv29w",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "J7SklEfF1swyYuf2NedrQH_CwcA",
+      "id": "bP7iGE3YKOU",
+      "snippet": {
+        "publishedAt": "2023-06-26T23:43:53Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "03. GSAP Parallax Effect : PIN 배경 고정하기(feat. scrollTrigger) | 웹스토리보이 |  스크롤 효과",
+        "description": "채널에 가입하여 혜택을 누려보세요.\nhttps://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join\n\n안녕하세요!  웹스토리보이입니다. \n이번 영상에서는 GSAP의 강력한 플러그인인 Parallax ScrollTrigger에 대해서 정리했습니다. \n기초 영상으로 15가지 예제로 구성되어 있습니다. \n\n이 영상에서는 먼저 Parallax ScrollTrigger가 무엇인지 알려드리고, 어떻게 작동하는지 상세히 설명할 것입니다. \n그리고 실제로 어떻게 사용하는지 몇 가지 예시를 통해 만들어보게 됩니다. \n\n다양한 웹 사이트에서 Parallax ScrollTrigger를 사용하여 멋진 효과를 구현하고 있습니다. \n이미지, 배경, 텍스트 등 다양한 요소들을 활용하여 화면을 움직이거나 \n부드러운 애니메이션을 구현할 수 있습니다.\nParallax ScrollTrigger는 사용하기도 쉽고, 다양한 커스터마이징 옵션도 제공합니다. \n여러분은 이 라이브러리를 사용하여 창의적이고 인상적인 웹 페이지를 만들 수 있을 것입니다.\n\n그럼 같이 시작해볼까요! 😜\n\n재생목록 : https://www.youtube.com/playlist?list=PL4UVBBIc6giL8-6jvrClimg0cFL-Muqiq\n미리보기 : https://webstoryboy.github.io/gsap2023/gsap01.html\n\n01. GSAP 패럴랙스 이펙트 : 기본 애니메이션 : https://webstoryboy.co.kr/1909\n02. GSAP 패럴랙스 이펙트 : Pin 애니메이션 : https://webstoryboy.co.kr/1910\n03. GSAP 패럴랙스 이펙트 : Pin 배경 고정하기 : https://webstoryboy.co.kr/1911\n04. GSAP 패럴랙스 이펙트 : 이질감 효과 : https://webstoryboy.co.kr/1912\n05. GSAP 패럴랙스 이펙트 : 나타나기 효과 : https://webstoryboy.co.kr/1913\n06. GSAP 패럴랙스 이펙트 : 텍스트 효과 : https://webstoryboy.co.kr/1914\n07. GSAP 패럴랙스 이펙트 : 배경색 효과 : https://webstoryboy.co.kr/1915\n08. GSAP 패럴랙스 이펙트 : 진행바 효과 : https://webstoryboy.co.kr/1916\n09. GSAP 패럴랙스 이펙트 : 메뉴 이동 효과 : https://webstoryboy.co.kr/1917\n10. GSAP 패럴랙스 이펙트 : 메뉴 축소 효과 : https://webstoryboy.co.kr/1918\n11. GSAP 패럴랙스 이펙트 : 메뉴 숨기기 효과 : https://webstoryboy.co.kr/1919\n12. GSAP 패럴랙스 이펙트 : 가로 효과 : https://webstoryboy.co.kr/1920\n13. GSAP 패럴랙스 이펙트 : 가로/세로 효과 : https://webstoryboy.co.kr/1921\n14. GSAP 패럴랙스 이펙트 : 가로/세로 나타나기 효과 : https://webstoryboy.co.kr/1922\n15. GSAP 패럴랙스 이펙트 : 스무스 효과 : https://webstoryboy.co.kr/1923\n\n궁금한 점이나 이상한 점들은 댓글 부탁드립니다. \n댓글은 수시로 확인하고 있으니 최대한 빨리 답변 드리겠습니다. \n\n영상은 채널 가입시 모두 볼 수 있습니다. \n채널을 가입하거나 다른 경로를 통해 유로로 볼 수 있는 점 참고 바랍니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bP7iGE3YKOU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bP7iGE3YKOU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bP7iGE3YKOU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bP7iGE3YKOU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bP7iGE3YKOU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "03. GSAP Parallax Effect : PIN 배경 고정하기(feat. scrollTrigger) | 웹스토리보이 |  스크롤 효과",
+          "description": "채널에 가입하여 혜택을 누려보세요.\nhttps://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join\n\n안녕하세요!  웹스토리보이입니다. \n이번 영상에서는 GSAP의 강력한 플러그인인 Parallax ScrollTrigger에 대해서 정리했습니다. \n기초 영상으로 15가지 예제로 구성되어 있습니다. \n\n이 영상에서는 먼저 Parallax ScrollTrigger가 무엇인지 알려드리고, 어떻게 작동하는지 상세히 설명할 것입니다. \n그리고 실제로 어떻게 사용하는지 몇 가지 예시를 통해 만들어보게 됩니다. \n\n다양한 웹 사이트에서 Parallax ScrollTrigger를 사용하여 멋진 효과를 구현하고 있습니다. \n이미지, 배경, 텍스트 등 다양한 요소들을 활용하여 화면을 움직이거나 \n부드러운 애니메이션을 구현할 수 있습니다.\nParallax ScrollTrigger는 사용하기도 쉽고, 다양한 커스터마이징 옵션도 제공합니다. \n여러분은 이 라이브러리를 사용하여 창의적이고 인상적인 웹 페이지를 만들 수 있을 것입니다.\n\n그럼 같이 시작해볼까요! 😜\n\n재생목록 : https://www.youtube.com/playlist?list=PL4UVBBIc6giL8-6jvrClimg0cFL-Muqiq\n미리보기 : https://webstoryboy.github.io/gsap2023/gsap01.html\n\n01. GSAP 패럴랙스 이펙트 : 기본 애니메이션 : https://webstoryboy.co.kr/1909\n02. GSAP 패럴랙스 이펙트 : Pin 애니메이션 : https://webstoryboy.co.kr/1910\n03. GSAP 패럴랙스 이펙트 : Pin 배경 고정하기 : https://webstoryboy.co.kr/1911\n04. GSAP 패럴랙스 이펙트 : 이질감 효과 : https://webstoryboy.co.kr/1912\n05. GSAP 패럴랙스 이펙트 : 나타나기 효과 : https://webstoryboy.co.kr/1913\n06. GSAP 패럴랙스 이펙트 : 텍스트 효과 : https://webstoryboy.co.kr/1914\n07. GSAP 패럴랙스 이펙트 : 배경색 효과 : https://webstoryboy.co.kr/1915\n08. GSAP 패럴랙스 이펙트 : 진행바 효과 : https://webstoryboy.co.kr/1916\n09. GSAP 패럴랙스 이펙트 : 메뉴 이동 효과 : https://webstoryboy.co.kr/1917\n10. GSAP 패럴랙스 이펙트 : 메뉴 축소 효과 : https://webstoryboy.co.kr/1918\n11. GSAP 패럴랙스 이펙트 : 메뉴 숨기기 효과 : https://webstoryboy.co.kr/1919\n12. GSAP 패럴랙스 이펙트 : 가로 효과 : https://webstoryboy.co.kr/1920\n13. GSAP 패럴랙스 이펙트 : 가로/세로 효과 : https://webstoryboy.co.kr/1921\n14. GSAP 패럴랙스 이펙트 : 가로/세로 나타나기 효과 : https://webstoryboy.co.kr/1922\n15. GSAP 패럴랙스 이펙트 : 스무스 효과 : https://webstoryboy.co.kr/1923\n\n궁금한 점이나 이상한 점들은 댓글 부탁드립니다. \n댓글은 수시로 확인하고 있으니 최대한 빨리 답변 드리겠습니다. \n\n영상은 채널 가입시 모두 볼 수 있습니다. \n채널을 가입하거나 다른 경로를 통해 유로로 볼 수 있는 점 참고 바랍니다."
+        }
+      },
+      "statistics": {
+        "viewCount": "28",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

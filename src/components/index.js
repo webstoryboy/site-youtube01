@@ -5,4 +5,6 @@ export { default as SearchConts } from './SearchConts';
 export { default as HeaderCont } from './HeaderCont';
 
 export { default as Category } from './Category';
+
 export { default as Videos } from './Videos';
+export { default as VideoCard } from './VideoCard';
