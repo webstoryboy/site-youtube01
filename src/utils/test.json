@@ -1,0 +1,1644 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "P2eExtsRxYxnfr7WrDmkZIwQaNk",
+  "nextPageToken": "CDAQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 2085,
+    "resultsPerPage": 48
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Zg_9KNmwqni-fmXF-KIUGqrAAKI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bP7iGE3YKOU"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-26T23:43:53Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "03. GSAP Parallax Effect : PIN 배경 고정하기(feat. scrollTrigger) | 웹스토리보이 |  스크롤 효과",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 안녕하세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bP7iGE3YKOU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bP7iGE3YKOU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bP7iGE3YKOU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-26T23:43:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ug0qdX2EsIFyRjzQl-njSBuY3EA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_rAAY_Zp4FI"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-24T23:51:22Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "01. GSAP Parallax Effect : 기본 애니메이션(feat. scrollTrigger) |  웹스토리보이",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 안녕하세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_rAAY_Zp4FI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_rAAY_Zp4FI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_rAAY_Zp4FI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-24T23:51:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1cTNsKZKc3dI4xHMSE5-XADxK7M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T9kkvtHaq8E"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-25T00:30:20Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "02. GSAP Parallax Effect : PIN 애니메이션(feat. scrollTrigger) | 웹스토리보이 |  포트폴리오",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 안녕하세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T9kkvtHaq8E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T9kkvtHaq8E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T9kkvtHaq8E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-25T00:30:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cbnZHMG1Wkde7zyMVt4KJh3Q1YU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qnwa6I5WosI"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-18T01:00:15Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "[레이아웃01] 사이트 만들기 프로젝트1 - float, flex, grid 레이아웃 유형별 연습하기 | 포트폴리오가 실력이다 | 웹 퍼블리셔 | 프론트앤드 개발자",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 이 강의는 유료 강의 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qnwa6I5WosI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qnwa6I5WosI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qnwa6I5WosI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-18T01:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gexu8jC94jhCZuynvt9Ht_X7aqc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Yj1fQB_09fg"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-26T05:07:37Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "웹디자인기능사 2023년 실기 강의 : 실전 사이트 연습 : A유형",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 안녕하세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Yj1fQB_09fg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Yj1fQB_09fg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yj1fQB_09fg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-26T05:07:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YpJ9sKHmYLZ-M-qWrSL0244Li-I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EtK5SlmOlvw"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-17T22:19:29Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "웹디자인기능사 2023년 실기 무료 강의 : 레이아웃 유형(E-1) | 웹스토리보이 | 웹디자인기능사 실기 d유형",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 안녕하세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EtK5SlmOlvw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EtK5SlmOlvw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EtK5SlmOlvw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-17T22:19:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "J_B6hWQIvb3vzEMOR9-abD0fFe4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r2A0HXyjQL0"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-13T00:00:02Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "01. 웹디자인 기능사 따라하면 딴다 - INTRO | 웹스토리보이 | 웹쓰",
+        "description": "웹디자인 기능사 실기 준비를 위한 동영상입니다. 웹 디자인 기능사의 여러가지 유형을 익혀야 하며 기본적인 제이쿼리는 꼭 외워야 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r2A0HXyjQL0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r2A0HXyjQL0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r2A0HXyjQL0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-13T00:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rGbmrfTGbnvu6eC6bPpiidITfNs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gm4YGPv6jR0"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-15T09:33:06Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "웹디자인기능사 2023년 실기 무료 강의 : 레이아웃 유형(A-1) | 웹스토리보이 | 2023 웹디기",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 안녕하세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gm4YGPv6jR0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gm4YGPv6jR0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gm4YGPv6jR0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-15T09:33:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jVApFKLuIOt_mPom7t_jwnKegN8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ayF6RPYBBqM"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-18T01:00:00Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "포트폴리오 어떻게 만들어야 할까? - 웹 퍼블리셔 인터뷰 &amp; webstoryboy",
+        "description": "포트폴리오 어떻게 만들어야 할까? 스터디에서 포트폴리오 만들기부터 취업하는 방법까지의 인터뷰입니다. ** 포트폴리오 리뷰 자신 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ayF6RPYBBqM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ayF6RPYBBqM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ayF6RPYBBqM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-18T01:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EQ1W3THr1POiK1iGLn7KCK3r1AQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZgalH_xl9oc"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-01T00:14:15Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "웹디자인기능사 2023년 실기 강의 : 실전 사이트 연습 : C유형",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 안녕하세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZgalH_xl9oc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZgalH_xl9oc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZgalH_xl9oc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-01T00:14:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jhIiAMaQYOsZx4wNOjoLzgwqgG8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kr7vQaS8C6Q"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-23T12:25:02Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "웹디자인기능사 2023년 실기 강의 : 팝업 유형(P-1) | 웹스토리보이 | 팝업 | 레이어 팝업",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 안녕하세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kr7vQaS8C6Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kr7vQaS8C6Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kr7vQaS8C6Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-23T12:25:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lwLK6DqrYQNXnrcm6nlkptESHdo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Cb4aVA_bMfw"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-20T03:30:22Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "웹디자인기능사 2023년 실기 무료 강의 : 슬라이드 유형(S-1) | 웹스토리보이 | 이미지 슬라이드",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 안녕하세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Cb4aVA_bMfw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Cb4aVA_bMfw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cb4aVA_bMfw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-20T03:30:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ze8CB8x-WezXuGKbbpx_g-iTTFQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QwNNvxaPg1w"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-15T23:01:24Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "웹디자인기능사 2023년 실기 무료 강의 : 레이아웃 유형(B-1) | 웹스토리보이 | 웹디자인기능사 무료로 합격하기",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 안녕하세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QwNNvxaPg1w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QwNNvxaPg1w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QwNNvxaPg1w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-15T23:01:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kD9C5Hj44WkzLXg9BXvPEROJBXw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fFpUdBY7r4s"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-17T22:19:51Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "웹디자인기능사 2023년 실기 무료 강의 : 레이아웃 유형(E-4) | 웹스토리보이 | 웹디기 레이아웃",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 안녕하세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fFpUdBY7r4s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fFpUdBY7r4s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fFpUdBY7r4s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-17T22:19:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pLZiu9QzXVuPT3jkU7BEb_VtLEI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "38bKoEVVOk4"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-18T23:37:09Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "웹디자인기능사 2023년 실기 무료 강의 : 메뉴 가로 유형(M-2) | 웹스토리보이 | 자바스크립트",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 안녕하세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/38bKoEVVOk4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/38bKoEVVOk4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/38bKoEVVOk4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-18T23:37:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sjfTWj5wCIbeP4ac4I3_GL9zL6g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OwimPPHqt1A"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-17T22:19:39Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "웹디자인기능사 2023년 실기 무료 강의 : 레이아웃 유형(E-2) | 웹스토리보이 | 웹디자인기능사 실기 비주얼스튜디오",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 안녕하세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OwimPPHqt1A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OwimPPHqt1A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OwimPPHqt1A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-17T22:19:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dO83dzTY8gNDYzn72CKctJMQ6_U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gEw-jRrWOUo"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-23T12:25:05Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "웹디자인기능사 2023년 실기 강의 : 탭메뉴 유형(T-1) | 웹스토리보이 | 탭 메뉴 스크립트",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 안녕하세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gEw-jRrWOUo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gEw-jRrWOUo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gEw-jRrWOUo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-23T12:25:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GA3u3mSsREslc8cpIqB7BLmzbCE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OKZXYgAgtyw"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-17T23:56:08Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "[디자인01] 사이트 만들기 프로젝트1 - 헤더 영역01 | 포트폴리오가 실력이다 | 피그마 | 웹디자인너 | 웹 퍼블리셔",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 이 강의는 유료 강의 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OKZXYgAgtyw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OKZXYgAgtyw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OKZXYgAgtyw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-17T23:56:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lhhy6mh4qeRDCyHHqK1yO1YhSds",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CZRVhkRr3Ak"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-16T22:27:11Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "웹디자인기능사 2023년 실기 무료 강의 : 레이아웃 유형(D-1) | 웹스토리보이 | 웹디자인기능사 실기 포토샵",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 안녕하세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CZRVhkRr3Ak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CZRVhkRr3Ak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CZRVhkRr3Ak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-16T22:27:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Bbq2Il4gL_Z142BZB_BOE5bcvtw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zIRhhGuj_v4"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-30T00:14:34Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "웹디자인기능사 2023년 실기 강의 : 실전 사이트 연습 : B유형",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 안녕하세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zIRhhGuj_v4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zIRhhGuj_v4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zIRhhGuj_v4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-30T00:14:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jA_97pXqKdoYoL-3sAsO0V-qsWw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Yg_NYns8IYA"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-15T09:38:20Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "웹디자인기능사 2023년 실기 무료 강의 : 레이아웃 유형(A-2) | 웹스토리보이 | 웹디자인기능사",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 안녕하세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Yg_NYns8IYA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Yg_NYns8IYA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yg_NYns8IYA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-15T09:38:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "m0iA-lO0OiJgWOQ-eU3Ykk-4BIk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i5KPtxLRCyc"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-16T22:24:24Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "웹디자인기능사 2023년 실기 무료 강의 : 레이아웃 유형(C-1) | 웹스토리보이 | 웹디자인기능사 실기",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 안녕하세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i5KPtxLRCyc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i5KPtxLRCyc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i5KPtxLRCyc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-16T22:24:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2oDZOBSUZ3YoWmDNlg0C1x3guEA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pEiNADG7LEI"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-15T23:01:46Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "웹디자인기능사 2023년 실기 무료 강의 : 레이아웃 유형(B-2) | 웹스토리보이 | 웹디자인기능사 실기 독학",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 안녕하세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pEiNADG7LEI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pEiNADG7LEI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pEiNADG7LEI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-15T23:01:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "baG_QcjHzwM19n_h5MicEU1IbiM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W3FoPdVZDE8"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-25T23:48:41Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "29. 웹 표준 사이트 만들기(2019) - 전체메뉴 스크립트",
+        "description": "웹 표준 사이트 만들기(2019) 버전입니다. 소스를 보고 동영상을 보면서 따라하는 튜토리얼입니다. 질문이나 이상한 점은 댓글로 부탁 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W3FoPdVZDE8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W3FoPdVZDE8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W3FoPdVZDE8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-25T23:48:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9NB2cgWabmnTGLD3My5eScg0dRQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-DcpJHNwQaw"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-06T08:18:01Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "[수업영상] 카드 유형01",
+        "description": "완성화면 https://webstoryboy.github.io/web2023/site/cardType/cardType01.html 소스보기 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-DcpJHNwQaw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-DcpJHNwQaw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-DcpJHNwQaw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-06T08:18:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DyDmUfo-7buc7lpjBycb1kBgMw8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0ns-3YaKnCw"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-18T23:37:32Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "웹디자인기능사 2023년 실기 무료 강의 : 메뉴 세로 유형(M-6) | 웹스토리보이 | 메뉴 자바스크립트",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 안녕하세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0ns-3YaKnCw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0ns-3YaKnCw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0ns-3YaKnCw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-18T23:37:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JbmZgSGHQinjocqTVfQPemn9iQ0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tt4yj_JVuLk"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-21T01:46:42Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "웹디자인기능사 2023년 실기 강의 : 슬라이드 유형(S-4) | 웹스토리보이 | 이미지 슬라이드 페이드 효과 반응형",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 안녕하세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tt4yj_JVuLk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tt4yj_JVuLk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tt4yj_JVuLk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-21T01:46:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rmxf4WNlFYaotVE8CXWbooMx_hM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P1fm-pfOQZA"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-16T22:24:32Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "웹디자인기능사 2023년 실기 무료 강의 : 레이아웃 유형(C-2) | 웹스토리보이 | 웹디기 독학",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 안녕하세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P1fm-pfOQZA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P1fm-pfOQZA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P1fm-pfOQZA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-16T22:24:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Kdge2Im4sd93L87rhK3tdXxTvgg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HUyjtgZAeXU"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-18T23:37:04Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "웹디자인기능사 2023년 실기 무료 강의 : 메뉴 가로 유형(M-1) | 웹스토리보이 | 메뉴 제이쿼리",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 안녕하세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HUyjtgZAeXU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HUyjtgZAeXU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HUyjtgZAeXU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-18T23:37:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xMkM7jhl_tmU2rkieHS-5um-DHE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NNAvh_XYhAo"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-05T12:48:06Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "01. 피그마를 이용한 모바일 사이트 코딩 작업 - 문서 셋팅",
+        "description": "피그마를 이용한 디자인 작업을 모바일 코딩으로 작업하는 튜토리얼 영상입니다. 참고 사이트 https://wtss.tistory.com/339.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NNAvh_XYhAo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NNAvh_XYhAo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NNAvh_XYhAo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-05T12:48:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SEBMYX4uB6Xl3g68RbNwBoM5Rgg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dNQZqNd_uUE"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-21T23:49:47Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "[레이아웃02] 사이트 만들기 프로젝트1 - float, flex, grid 레이아웃 유형별 연습하기 | 포트폴리오가 실력이다 | 웹 퍼블리셔 | 프론트앤드 개발자",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 이 강의는 유료 강의 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dNQZqNd_uUE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dNQZqNd_uUE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dNQZqNd_uUE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-21T23:49:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uM2qb0qdc30zzdBqFkaKmD3zqYw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fMtNDR7AsNc"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-16T22:27:16Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "웹디자인기능사 2023년 실기 무료 강의 : 레이아웃 유형(D-2) | 웹스토리보이 | 웹디자인기능사 실기 기출문제",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 안녕하세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fMtNDR7AsNc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fMtNDR7AsNc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fMtNDR7AsNc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-16T22:27:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WIPxLhDvGfJQ03__QEp3BnrjJ3U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OcQCpfg9QYQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-15T09:38:53Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "웹디자인기능사 2023년 실기 무료 강의 : 레이아웃 유형(A-3) | 웹스토리보이 | 웹디자인기능사 실기",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 안녕하세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OcQCpfg9QYQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OcQCpfg9QYQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OcQCpfg9QYQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-15T09:38:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BnYiseWdebd9oSnesJUuMXr1PlA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mdrsNRupoJY"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-18T23:37:14Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "웹디자인기능사 2023년 실기 무료 강의 : 메뉴 가로 유형(M-3) | 웹스토리보이 | 메뉴 가로 스크립트",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 안녕하세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mdrsNRupoJY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mdrsNRupoJY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mdrsNRupoJY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-18T23:37:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S3nAlsbMuSXNNd84nNuVLLCKpiQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XfcQRzFvIcY"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-31T00:00:02Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "31. 웹 표준 사이트 만들기(2019) - 탭메뉴 스크립트",
+        "description": "웹 표준 사이트 만들기(2019) 버전입니다. 소스를 보고 동영상을 보면서 따라하는 튜토리얼입니다. 질문이나 이상한 점은 댓글로 부탁 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XfcQRzFvIcY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XfcQRzFvIcY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XfcQRzFvIcY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-31T00:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "P5GZEsyztjtVLnoZJ63Jj6XMXk4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IkJXy4zpQUM"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-06T20:25:55Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "웹디자인기능사 2023년 실기 강의 : 실전 사이트 연습 : E유형",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 안녕하세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IkJXy4zpQUM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IkJXy4zpQUM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IkJXy4zpQUM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-06T20:25:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yhZcAI4aG0YpFuN0t-6BgT3F3Og",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3XQMhbcEH88"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-15T09:39:26Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "웹디자인기능사 2023년 실기 무료 강의 : 레이아웃 유형(A-4) | 웹스토리보이 | 웹디기 독학",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 안녕하세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3XQMhbcEH88/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3XQMhbcEH88/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3XQMhbcEH88/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-15T09:39:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b4LvIejsmQ8yBbJU_HM21U5JE0M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3ao2p_o5gcA"
+      },
+      "snippet": {
+        "publishedAt": "2018-11-25T07:53:26Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "21. 웹 표준 사이트 만들기(2019) - 마우스 오버효과1",
+        "description": "웹 표준 사이트 만들기(2019) 버전입니다. 이 영상은 사이트를 만들기 위한 기초적인 영상입니다. 웹 표준과 웹 접근성을 준수한 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3ao2p_o5gcA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3ao2p_o5gcA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3ao2p_o5gcA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-11-25T07:53:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_rv9W1j_mSveyVIvDLeCE3z0-14",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ykarD4oUoaM"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-02T00:42:03Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "웹디자인기능사 2023년 실기 강의 : 실전 사이트 연습 : D유형",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 안녕하세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ykarD4oUoaM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ykarD4oUoaM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ykarD4oUoaM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-02T00:42:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-9cdy4eqfquADpbWJB3gmOJZQHc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9tD1Pvn-82E"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-06T08:57:31Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "[수업 영상] 이미지 유형01",
+        "description": "완성화면 https://webstoryboy.github.io/web2023/site/imageType/imageType01.html 소스보기 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9tD1Pvn-82E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9tD1Pvn-82E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9tD1Pvn-82E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-06T08:57:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DWyHpBpLjYeS8Lj-NDOiHGaA-BQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ojTAbAPWVPo"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-16T22:24:43Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "웹디자인기능사 2023년 실기 무료 강의 : 레이아웃 유형(C-4) | 웹스토리보이 | 웹디자인기능사 레이아웃",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 안녕하세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ojTAbAPWVPo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ojTAbAPWVPo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ojTAbAPWVPo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-16T22:24:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dmZJQXFQLe2E8pkwspcZoygYU8Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2MTIL3uVy1Q"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-30T08:01:00Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "30. 웹 표준 사이트 만들기(2019) - 배너 스크립트",
+        "description": "웹 표준 사이트 만들기(2019) 버전입니다. 소스를 보고 동영상을 보면서 따라하는 튜토리얼입니다. 질문이나 이상한 점은 댓글로 부탁 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2MTIL3uVy1Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2MTIL3uVy1Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2MTIL3uVy1Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-30T08:01:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1i2yZmbyAoP7jCfZQFlBPkEbPHg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TCrVOaAUFec"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-21T01:50:48Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "웹디자인기능사 2023년 실기 강의 : 슬라이드 유형(S-5) | 웹스토리보이 | 이미지 슬라이드 좌우 반응형",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 안녕하세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TCrVOaAUFec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TCrVOaAUFec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TCrVOaAUFec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-21T01:50:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FX54Ct3sKDkbHKBg6x84mgnLm3c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "B3eYbL00R2Q"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-09T08:18:15Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "[수업 영상] 헤더 유형01",
+        "description": "완성 화면 https://webstoryboy.github.io/web2023/site/headerType/headerType01.html 소스보기 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B3eYbL00R2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B3eYbL00R2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B3eYbL00R2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-09T08:18:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "64Ihp8lzMIsZnizFppQv5ar7s1U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PARnjHoyofk"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-21T01:51:34Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "웹디자인기능사 2023년 실기 강의 : 슬라이드 유형(S-6) | 웹스토리보이 | 이미지 슬라이드 위아래 반응형",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 안녕하세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PARnjHoyofk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PARnjHoyofk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PARnjHoyofk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-21T01:51:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "COzNNYeAZVrvxhyhW_FW6HSLwKU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CqGnZk5edbc"
+      },
+      "snippet": {
+        "publishedAt": "2018-11-27T14:27:15Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "25. 웹 표준 사이트 만들기(2019) - 갤러리",
+        "description": "웹 표준 사이트 만들기(2019) 버전입니다. 이 영상은 사이트를 만들기 위한 기초적인 영상입니다. 웹 표준과 웹 접근성을 준수한 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CqGnZk5edbc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CqGnZk5edbc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CqGnZk5edbc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-11-27T14:27:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vn5PeiOwgmZ0BtmsnVdgYyNe_pg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "52TT7SLexxE"
+      },
+      "snippet": {
+        "publishedAt": "2019-01-06T03:28:59Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "01. 반응형 사이트 만들기(2019) - 시멘틱 태그",
+        "description": "반응형 사이트 만들기(2019) 버전입니다. 소스를 보고 동영상을 보면서 따라하는 튜토리얼입니다. 질문이나 이상한 점은 댓글로 부탁 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/52TT7SLexxE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/52TT7SLexxE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/52TT7SLexxE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-01-06T03:28:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PA1kTJ_aa4QT_pQ45HgTQ5b7Fyg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jjHLaeG4BCs"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-16T06:54:48Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "[퍼블리싱02] 사이트 만들기 프로젝트1 - 슬라이드 유형01",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join [포트폴리오가 실력 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jjHLaeG4BCs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jjHLaeG4BCs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jjHLaeG4BCs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-16T06:54:48Z"
+      }
+    }
+  ]
+}

@@ -1,21 +1,18 @@
 import React from 'react';
 
-const Videos = () => {
+const Videos = ({ videos }) => {
+  console.log(videos);
   return (
     <div className="videos__inner">
-      <div>1</div>
-      <div>1</div>
-      <div>1</div>
-      <div>1</div>
-      <div>1</div>
-      <div>1</div>
-      <div>1</div>
-      <div>1</div>
-      <div>1</div>
-      <div>1</div>
-      <div>1</div>
-      <div>1</div>
-      <div>1</div>
+      {videos.map((video, idx) => (
+        <div key={idx}>
+          <img
+            src={video.snippet.thumbnails.medium.url}
+            alt={video.snippet.title}
+          />
+          <h3>{video.snippet.title}</h3>
+        </div>
+      ))}
     </div>
   );
 };
